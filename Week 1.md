@@ -35,5 +35,4 @@ This document provides a brief overview of different types of software testing u
 - Reduces risks before deployment.
 - Improves user satisfaction.
 
----
 **Note**: Each testing phase is critical in SDLC for delivering a robust product.
